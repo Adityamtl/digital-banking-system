@@ -268,6 +268,13 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ---
 
-## 👤 Author
+## 👥 Team Members & Contributions
 
-**Aditya Mittal** — [@Adityamtl](https://github.com/Adityamtl)
+| Name | Roll Number | Module | Description |
+| ---- | ----------- | ------ | ----------- |
+| **Sasipreetam Sajja** | BT2024124 | Model | Designed and implemented data models including `User`, `Transaction`, `Role`, `TransactionType`, and `TransactionStatus` |
+| **Laksh Chovatiya** | BT2024056 | AuthService | Implemented authentication service with user registration, login, logout, and session management |
+| **Srijan Gupta** | BT2024098 | Exception Handling | Created global exception handler with custom `ApiError` responses and security exception handling |
+| **Kkshiteej N Tiwari** | BT2024154 | Repository | Developed JSON file-based data repository for persistent storage of users and transactions |
+| **Aditya Mittal** | BT2024188 | Controller | Built REST controllers for authentication and wallet endpoints |
+| **Ridwan Umar** | BT2024217 | WalletService | Implemented wallet operations including balance inquiry, deposits, and withdrawals |
